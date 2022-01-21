@@ -5,3 +5,5 @@ Há branches que representam as implementações realizadas durante os seguintes
 
 1. Desenvolvimento Mobile Nativo Para Android
    - [release/dmnpandroid](https://github.com/Josius/DIO_matches-simulator-app/tree/release/dmnpandroid)
+2. Componentes, Layouts e UI/UX Em Apps Android
+   - [release/cl_ui_ux_eappandroid](https://github.com/Josius/DIO_matches-simulator-app/tree/release/cl_ui_ux_eappandroid)
