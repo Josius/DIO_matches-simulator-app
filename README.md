@@ -9,3 +9,5 @@ Há branches que representam as implementações realizadas durante os seguintes
    - [release/cl_ui_ux_eappandroid](https://github.com/Josius/DIO_matches-simulator-app/tree/release/cl_ui_ux_eappandroid)
 3. Java e Kotlin Juntos!? Construindo Apps Android
    - [release/j-e-k-j-c-apps-android](https://github.com/Josius/DIO_matches-simulator-app/tree/release/j-e-k-j-c-apps-android)
+4. Explorando o Firebase Para Apps Android Resilientes
+   - [release/e-o-f-p-apps-android-resilientes](https://github.com/Josius/DIO_matches-simulator-app/tree/release/e-o-f-p-apps-android-resilientes)
